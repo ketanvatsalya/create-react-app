@@ -20,6 +20,14 @@ class App extends Component {
           >
             Learn React
           </a>
+          <a
+            className="App-link"
+            href="validate.html"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Validation Results
+          </a>
         </header>
       </div>
     );
